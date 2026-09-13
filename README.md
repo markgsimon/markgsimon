@@ -16,7 +16,7 @@ Earlier: ML engineering (2019). Currently finishing an online MCS (ASU) and stud
 
 ## Looking for
 
-Staff / senior engineer or architecture roles where the work is real systems: **AI SaaS, fintech, InsurTech, SRE / platform**. Open to full-time and strong C2C.
+Staff / senior engineer or architecture roles where the work is real systems: **AI SaaS, fintech, InsurTech, Healthtech*. Open to full-time and strong C2C.
 
 ## Contact
 
