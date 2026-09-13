@@ -18,13 +18,6 @@ Earlier: ML engineering (2019). Currently finishing an online MCS (ASU) and stud
 
 Staff / senior engineer or architecture roles where the work is real systems: **AI SaaS, fintech, InsurTech, SRE / platform**. Open to full-time and strong C2C.
 
-## Selected repos
-
-- [cas-platform](https://github.com/markgsimon/cas-platform)
-- [website](https://github.com/markgsimon/website)
-- [mathematical_software](https://github.com/markgsimon/mathematical_software)
-- [c-programming-language](https://github.com/markgsimon/c-programming-language)
-
 ## Contact
 
 Prefer email or the site over GitHub issues for recruiting.
