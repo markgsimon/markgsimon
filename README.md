@@ -24,7 +24,6 @@ Staff / senior engineer or architecture roles where the work is real systems: **
 - [website](https://github.com/markgsimon/website)
 - [mathematical_software](https://github.com/markgsimon/mathematical_software)
 - [c-programming-language](https://github.com/markgsimon/c-programming-language)
-- 
 
 ## Contact
 
